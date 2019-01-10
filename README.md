@@ -47,4 +47,4 @@ Some results
 Next - CharRNN in Pytorch. 
 
 
-Source: [Eli Bendersy's website](https://eli.thegreenplace.net/)
+Source: [Eli Bendersky's website](https://eli.thegreenplace.net/)
