@@ -50,6 +50,6 @@ class MarkovChainGen:
         for i in range(self.msg_len):
             out.extend(random.choices(list(model[state]), model[state].values()))
             state = state[1:] + out[-1]
-        msg = ''.join(out)
+        msg = ' '.join(out)
         return msg
     
