@@ -33,13 +33,19 @@ mchain.generate_text(model)
 
 Some results 
 
+#Update 
 
-```
-- from method appreciated Google Turning Lucrative Search Over Machines Deep Learning Library from IDSIA Deep Learning resources Unsupervised Incremental Learning Predict
 
--  Help understanding reparameterization trick auto encoding variational bayes fully connected layers barely learning Dispelling hype listen experts
+I connect this model into twitter account so you can see some of the results. 
 
-- tutorials that translate Tensorflow code physical systems Feeding Noise Trained Image Classifier Learning Distributed Word Representations with Neural
+![](https://github.com/s3nh/markov_chain/blob/master/imgs/Przechwytywania.png)
+
+
+You can use it by yourself by using load_and_gen.py file with your own configuration. 
+PM me please if you are interested in songdick.pkl file. 
+It is too large to upload it on git ;)
+
+# TO do 
 
 ```
 
