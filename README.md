@@ -38,7 +38,7 @@ Some results
 
 I connect this model into twitter account so you can see some of the results. 
 
-![](https://github.com/s3nh/markov_chain/blob/master/imgs/Przechwytywanie.png)
+![](https://github.com/s3nh/markov_chain/blob/master/imgs/Przechwytywanie.PNG)
 
 
 You can use it by yourself by using load_and_gen.py file with your own configuration. 
