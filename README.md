@@ -38,7 +38,7 @@ Some results
 
 I connect this model into twitter account so you can see some of the results. 
 
-![](https://github.com/s3nh/markov_chain/blob/master/imgs/Przechwytywania.png)
+![](https://github.com/s3nh/markov_chain/blob/master/imgs/Przechwytywanie.png)
 
 
 You can use it by yourself by using load_and_gen.py file with your own configuration. 
@@ -47,7 +47,6 @@ It is too large to upload it on git ;)
 
 # TO do 
 
-```
 
 
 Next - CharRNN in Pytorch. 
