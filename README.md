@@ -42,7 +42,7 @@ I connect this model into twitter account so you can see some of the results.
 
 
 You can use it by yourself by using load_and_gen.py file with your own configuration. 
-PM me please if you are interested in songdick.pkl file. 
+PM me please if you are interested in songdict.pkl file. 
 It is too large to upload it on git ;)
 
 # TO do 
